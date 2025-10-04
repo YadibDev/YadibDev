@@ -30,6 +30,10 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" height="40" alt="html logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height="40" alt="css logo"  />
 </div>
 
 ###
