@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Languages & tools:</h2>
 
 ###
 
@@ -52,7 +52,8 @@
 </div>
 
 ###
-
-<img align="left" height="100" src="https://media1.tenor.com/m/cKgOapMuyWcAAAAC/coding-developer-code.gif"  />
+<p align="center">
+  <img src="https://media1.tenor.com/m/cKgOapMuyWcAAAAC/coding-developer-code.gif"  />
+</p> 
 
 ###
