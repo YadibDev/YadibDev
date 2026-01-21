@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is yassine adib and I'm a student at 1337 right now, from morocco</p>
+<p align="left">My name is yassine adib and I'm a student at 1337 right now</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning fundementals of programming<br>🎯 Goals: be a web developer</p>
+<p align="left">📚 I'm stydying web development and algorithms<br>🎯 Goals: be a web developer</p>
 
 ###
 
