@@ -1,61 +1,31 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# BACK_END DEVELOPER STUDENT
 
-###
+I am a student at 1337, right now I am focusing on learning the basics of a back-end development and improving my skills in networking and algorithms .
 
-<p align="left">My name is yassine adib and I'm a student at 1337 right now</p>
+---
 
-###
+### 💻 TECH STACK
 
-<h2 align="left">About me</h2>
+**Core** <br>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-###
+**Systems** <br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<p align="left">📚 I'm stydying web development and algorithms<br>🎯 Goals: be a web developer</p>
+**Architecture** <br>
+![OOP](https://img.shields.io/badge/OOP-b52e31?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-8A2BE2?style=for-the-badge)
 
-###
+**Tools** <br>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<h2 align="left">Languages & tools:</h2>
+---
 
-###
+### 📡 CONNECT
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" height="40" alt="html logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height="40" alt="css logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yadibDev.yadibDev&"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/adib-yassine/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="yassedme17@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
-</div>
-
-###
-<p align="center">
-  <img src="https://media1.tenor.com/m/cKgOapMuyWcAAAAC/coding-developer-code.gif"  />
-</p> 
-
-###
+*   **GitHub:** [@YadibDev](https://github.com/YadibDev)
